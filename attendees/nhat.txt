@@ -1,0 +1,1 @@
+Hi, I'm Nhat and I am setting up Git on Linux!

@@ -1,0 +1,1 @@
+Computing: In open-source software, "forking" a project means taking a copy of existing code and modifying it to create an entirely new, independent project.
